@@ -66,7 +66,7 @@ def check_table_exists(conn, table_name):
 
 def main():
     conn, c = create_db()
-    api_key = "780bba1c9bcf26da41e779a7124747c3"  # Replace with your actual API key
+    api_key = "api_key"  # Replace with your actual API key
     check_table_exists(conn, 'weather')
     city = "London"  # Replace with the city you want
     get_weather(conn, c, api_key, city)
