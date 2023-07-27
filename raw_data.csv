@@ -1,0 +1,10 @@
+id,name,age,email,salary
+1,John Doe,25,johndoe@example.com,5000
+2,Jane Smith,30,janesmith@example.com,4000
+3,Alexander Lee,,alexanderlee@example.com,6000
+4,Sarah Johnson,28,sarahjohnson@example.com,4500
+5,David Wang,thirty-five,davidwang@example.com,5500
+6,Emily Chen,27,emilychen@example.com,3500
+7,Michael Brown,32,michaelbrown@example.com,4800
+8,,29,john@example.com,NaN
+9,Anne Davis,26,annedavis@example.com,4200
